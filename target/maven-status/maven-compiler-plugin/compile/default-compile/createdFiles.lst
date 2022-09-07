@@ -1,0 +1,8 @@
+com\example\examencrud\dao\FileDAO$1.class
+com\example\examencrud\dao\FileDAO.class
+com\example\examencrud\ExamencrudApplication.class
+com\example\examencrud\services\ClientService.class
+com\example\examencrud\dto\ResponseDTO.class
+com\example\examencrud\services\ClientServiceImpl.class
+com\example\examencrud\models\ClientModel.class
+com\example\examencrud\controllers\ClientController.class
